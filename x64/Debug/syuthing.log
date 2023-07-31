@@ -1,0 +1,8 @@
+﻿  GameClear.Scenecpp
+C:\PG\シューティング\syuthing\GameClear.Scenecpp(1,9): fatal error C1083: include ファイルを開けません。'GameClearScene':No such file or directory
+  GameMainScene.cpp
+  GameOverScene.cpp
+  main.cpp
+  PadInput.cpp
+  TitleScene.cpp
+  コードを生成中...
